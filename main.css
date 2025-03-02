@@ -1,0 +1,152 @@
+.b1 {
+    background-image: url('images/castle.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top -150px;
+}
+.settings {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.version {
+    font-family: 'Old English Text MT';
+    color: aliceblue;
+    text-align: right;
+    font-size: 15px;
+    letter-spacing: 5px;
+}
+.flags {
+    width: 30px;
+    margin-left: 15px;
+    box-shadow: 0 0 10px 5px rgba(217, 201, 201, 0.8);
+    border-radius: 5px;
+}
+.h2 {
+    font-family: 'Old English Text MT'; 
+    text-align: center;
+    color: aliceblue;
+    font-size: 70px;
+    margin-bottom: 0;
+    letter-spacing: 5px;
+    text-shadow: 0 0 10px rgba(217, 201, 201, 0.8);
+}
+.h1 {
+    font-family: 'Old English Text MT'; 
+    text-align: center;
+    color: aliceblue;
+    font-size: 140px;
+    margin-top: 0;
+    margin-bottom: 50px;
+    letter-spacing: 5px;  
+    text-shadow: 0 0 100px rgba(217, 201, 201, 0.8);
+    margin-bottom: 20px;
+}
+.maintxt {
+    margin-top: 130px;
+
+}
+.introbtn {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 3px 3px 30px white;
+    margin-top: 0;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+.b2 {  
+    background-image: url('images/main\ square.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top -100px;
+}
+.location {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-shadow: 4px 4px 12px rgba(0, 0, 0, 1);
+    text-align: center;
+}
+.game {
+    width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: rgba(20, 15, 10, 0.8);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.8);
+    border: 2px solid rgba(0, 0, 0, 0.2);
+}
+button {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #4E3D3D;
+    padding: 10px;
+    color: #F5E1A4;
+    border-radius: 3px;
+    border: 2px solid #A67C52;
+    margin: 10px 0 10px 0;
+    width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    white-space: nowrap;
+    font-weight: bold;
+    font-size: 15px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.8);
+}
+.controlButtons {
+    max-width: 200px;
+    margin: 0 0 0 10px;
+}
+.imgpasserby {
+    max-width: 350px;
+    border-radius: 10px;
+    border: 3px solid rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.8);
+}
+.stats {
+    display: flex;
+    justify-content: space-between;
+    text-shadow: 3px 3px 30px rgb(233, 233, 16);
+    margin-bottom: 8px;
+}
+.stat {
+    font-family: 'Old English Text MT';
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    gap: 5px;
+}
+.icon {
+    max-width: 30px;
+}
+.leftSide {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text {
+    color: #F5F5F5;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 70px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #A8A8A8;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.8);
+}
+.rightpart {
+    margin-right: 10px;
+}
